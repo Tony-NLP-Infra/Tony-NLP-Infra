@@ -36,6 +36,8 @@ Transitioning to **NLP Analysis** from **Infrastructure Engineering**. I have ex
 ![PyTorch](https://img.shields.io)
 ![NVIDIA](https://img.shields.io)
 
+by leveraging
+
 Here are some ideas to get you started:
 
 ## Hi there 👋
