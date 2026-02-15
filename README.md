@@ -14,7 +14,7 @@ Transitioning to **NLP Analysis** from **Infrastructure Engineering**. I have ex
 
 ### Full-Stack AI Infrastructure (The "Hardware-Aware" Engineer)
 *   **GPU Server Build:** Custom Ubuntu-based GPU workstation (RTX-3060) with NVIDIA Driver 535 & CUDA 12.1 integration.
-*   **Environment Orchestration:** Expert in **Conda** for runtime isolation; automated deployment via **Bash/PowerShell**.
+*   **Environment Orchestration:** Expert in **Conda** for runtime isolation.
 *   **Connectivity & Security:** Persistent SSH tunneling (`AutoSSH`), `Tailscale` VPN, and `Rclone` cloud-sync orchestration.
 *   **Databases:** PostgreSQL, MySQL (Data stocking and query optimization).
 
@@ -31,6 +31,8 @@ Transitioning to **NLP Analysis** from **Infrastructure Engineering**. I have ex
 
 <!--
 **Tony-NLP-Infra/Tony-NLP-Infra** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Environment Orchestration: Expert in Conda for runtime isolation; automated deployment via Bash/PowerShell.
+
 
 ![Python](https://img.shields.io)
 ![PyTorch](https://img.shields.io)
