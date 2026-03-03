@@ -27,7 +27,7 @@ Transitioning to **NLP Analysis** from **Infrastructure Engineering**. I have ex
 
 ### Featured Projects
 *   **RoBERTa Sentiment Predictor:** A deep-learning pipeline for classifying customer sentiment.
-*   **Network RTT Forecasting:** Time-series regression using `scikit-learn` to predict infrastructure latency.
+*   **Network RTT Forecasting:** Time-series regression using `TensorFlow (RNN/GRU)` to predict infrastructure latency.
 
 <!--
 **Tony-NLP-Infra/Tony-NLP-Infra** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
