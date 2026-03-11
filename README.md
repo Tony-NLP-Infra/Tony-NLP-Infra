@@ -7,7 +7,7 @@ Transitioning to **NLP Analysis** from **Infrastructure Engineering**. I have ex
 ---
 
 ### NLP & AI Intelligence
-*   **Modeling:** Sentiment Analysis & Time-Series Forecasting using `RoBERTa`, `BERT`, and `Scikit-Learn`.
+*   **Modeling:** Sentiment Analysis & Time-Series Forecasting using `RoBERTa`, `BERT`, and `TensorFlow`.
 *   **Text Engineering:** Advanced **Regex** for Data Cleaning; proficient in complex character encoding (Shift-JIS/UTF-8) across platforms.
 *   **Frameworks:** PyTorch 2.5.1, Transformers (Hugging Face), Sentence-Transformers, spaCy.
 *   **Linguistic Domain:** Earned skilles on Japanese Morphological Analysis (`Sudachi`, `GiNZA`, `MeCab`) in addition to translation background.
